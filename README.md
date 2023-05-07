@@ -1,6 +1,9 @@
 # Data_Analyst_course_2023
 Professional retraining course (Financial University)
 
+![1](https://user-images.githubusercontent.com/112115002/236700984-8cf55c74-d628-4a37-8da1-6f3184d78e26.png)
+
+
 ## Модуль 1. Введение в бизнес-аналитику. Python для анализа данных
 ### Тема 1
 
