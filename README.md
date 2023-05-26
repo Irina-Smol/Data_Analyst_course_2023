@@ -11,7 +11,7 @@ Professional retraining course (Financial University)
 
 Тема 1.1. Введение в Google-таблицы, сводные таблицы Excel
 
-Тема 1.2. Создание отчетов в Google Data Studio (Looker Studio)
+Тема 1.2. Создание отчетов в Google Data Studio (Looker Studio
 
 Тема 1.3. Применение pandas для анализа и обработки данных для пользователей Excel
 
