@@ -6,7 +6,7 @@ Professional retraining course (Financial University)
 ![1](https://user-images.githubusercontent.com/112115002/236700984-8cf55c74-d628-4a37-8da1-6f3184d78e26.png)
 
 
-## Модуль 1. Введение в бизнес-аналитику. Python для анализа данных
+## Модуль 1. Введение в бизнес-аналитику. Python для анализа данныx
 ### Тема 1
 
 Тема 1.1. Введение в Google-таблицы, сводные таблицы Excel
