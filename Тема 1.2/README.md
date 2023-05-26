@@ -1,3 +1,3 @@
 ## Создание отчетов в Google Data Studio (семинар)
 
-Использование файла xlsv в Google таблице
+Использование файла xlsv в Google таблице (использование Looker Studio)
