@@ -3,7 +3,6 @@ Professional retraining course (Financial University)
 
 Программа профессиональной переподготовки - "Аналитик данных" (256 часов)
 
-
 ![1](https://user-images.githubusercontent.com/112115002/236700984-8cf55c74-d628-4a37-8da1-6f3184d78e26.png)
 
 
